@@ -9,7 +9,7 @@ It will be just a little bit easier for us to understand what got changed and to
   * added *<a>* (not blank, some random link with small text description)
   * added *<ul>* with *3 <li>* and random short text in it.
   * added the *link* to the __style.css__
-
+   
 ---
  
  2. **Changes into the slyte.css**
@@ -20,3 +20,6 @@ It will be just a little bit easier for us to understand what got changed and to
 
 
 ---
+### some major changes here:
+ * added a few new pages with a topnav in all of them 
+ * added alot of style changes for the topnav
